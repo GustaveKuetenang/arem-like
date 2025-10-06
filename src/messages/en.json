@@ -1,0 +1,10 @@
+{
+  "homePage": {
+    "meta": {
+      "title": "Home Page - Arem Like",
+      "description": "This is the home page where you can find the latest updates."
+    },
+    "welcome": "Welcome to our application!",
+    "description": "This is the home page where you can find the latest updates."
+  }
+}

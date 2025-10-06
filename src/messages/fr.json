@@ -1,0 +1,10 @@
+{
+  "homePage": {
+    "meta": {
+      "title": "Page d'accueil - Arem Like",
+      "description": "Ceci est la page d'accueil où vous pouvez trouver les dernières mises à jour."
+    },
+    "welcome": "Bienvenue dans notre application !",
+    "description": "Ceci est la page d'accueil où vous pouvez trouver les dernières mises à jour."
+  }
+}
